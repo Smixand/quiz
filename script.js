@@ -1,6 +1,6 @@
 const points = document.getElementById("points")
 let corrects = 0
-let sporsmal = ["Hvordan lager man en lenke i HTML","Hvilken av disse er IKKE en CSS display-type","Hva brukes JavaScript for","Kan man bruke Java istedet for javascript i webutvikling","FERDIG"]
+let sporsmal = ["Hvordan lager man en lenke i HTML","Hvilken av disse er IKKE en CSS display-type","Hva brukes JavaScript for (hovedsakelig)","Kan man bruke Java istedet for javascript i webutvikling","FERDIG"]
 const questions = document.getElementById("spors")
 let progress = 0
 questions.textContent = sporsmal[progress]

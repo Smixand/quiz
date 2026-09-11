@@ -88,4 +88,3 @@ function dcheck(){
     alert("wow du er veldig god")
 }
 }
-
